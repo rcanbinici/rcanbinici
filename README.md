@@ -1,16 +1,17 @@
-## Hi there 👋
+![Who me?](https://media1.tenor.com/m/K1tg6Jtg7JsAAAAC/who-me.gif)
 
-<!--
-**rcanbinici/rcanbinici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋 I'm R. Can
 
-Here are some ideas to get you started:
+<p> <a href="https://www.linkedin.com/in/rcanbinici/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://medium.com/@rcanbinici" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me :rocket:
+- 💻  I am a Deep Learning & Java Software Engineer  
+- 🌱 I am passionate about **Software Engineering, Machine Learning/Deep Learning, Computer Vision and Reinforcement Learning with Robotics** 
+- 🎓 BSc. Software Engineering and MSc. Computer Science
+- 📫 You can reach me by email at: canbinici.55@gmail.com
+
+
+
+
+
